@@ -1,7 +1,7 @@
 "# unit-tests-BeeProdigy"
 
 <h1> Functionalities </h1>
-* Deckbuilder
+ * Deckbuilder
 
   * Create deck
 
@@ -74,4 +74,4 @@
 
     - [ ] Average win/loss
 
-      * DOES need unit testing
+      * DOES need unit testin
