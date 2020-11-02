@@ -74,4 +74,4 @@
 
     - [ ] Average win/loss
 
-      * DOES need unit testin
+      * DOES need unit testing
